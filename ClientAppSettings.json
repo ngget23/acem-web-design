@@ -1,43 +1,16 @@
 {
-    "DFIntTaskSchedulerTargetFps": "999",
-    "FFlagGameBasicSettingsFramerateCap5": "False",
-    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
-
-    "DFIntDebugFRMQualityLevelOverride": "1",
-    "DFFlagDebugRenderForceTechnologyVoxel": "True",
-    "FFlagDisablePostFx": "True",
-    "FIntRenderShadowIntensity": "0",
-    "FFlagDebugForceFutureIsBrightPhase2": "False",
-    "FFlagDebugForceFutureIsBrightPhase3": "False",
-
+    "DFIntDebugFRMQualityLevelOverride": "4",
+    "DFFlagTextureQualityOverrideEnabled": "True",
     "DFIntTextureQualityOverride": "0",
     "FIntDebugForceMSAASamples": "1",
-    "DFFlagTextureQualityOverrideEnabled": "True",
-
-    "FIntFRMMinGrassDistance": "0",
-    "FIntFRMMaxGrassDistance": "0",
-    "FIntGrassMovementReducedMotionFactor": "0",
-    "FIntTerrainArraySliceSize": "4",
-    "FIntRenderLocalLightUpdatesMax": "1",
-    "FIntRenderLocalLightUpdatesMin": "1",
-    "FIntRenderLocalLightFadeInMs": "0",
-
+    "DFFlagDebugPauseVoxelizer": "True",
+    "FFlagDebugSkyGray": "True",
     "DFIntCSGLevelOfDetailSwitchingDistance": "0",
     "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
     "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
     "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
-
-    "FFlagFastGPULightCulling3": "True",
-    "FFlagDebugGraphicsPreferD3D11": "True",
-    "FFlagDebugSkyGray": "True",
-
-    "DFIntPerformanceControlFrameTimeMax": "1",
-    "DFFlagDisableDPIScale": "True",
-    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
-    "FFlagDebugDisableTelemetryEphemeralStat": "True",
-    "FFlagDebugDisableTelemetryEventIngest": "True",
-    "FFlagDebugDisableTelemetryPoint": "True",
-    "FFlagDebugDisableTelemetryV2Counter": "True",
-    "FFlagDebugDisableTelemetryV2Event": "True",
-    "FFlagDebugDisableTelemetryV2Stat": "True"
+    "FIntFRMMinGrassDistance": "0",
+    "FIntFRMMaxGrassDistance": "0",
+    "FIntGrassMovementReducedMotionFactor": "0",
+    "FFlagDebugGraphicsPreferD3D11": "True"
 }

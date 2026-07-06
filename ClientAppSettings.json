@@ -1,5 +1,5 @@
 {
-    "DFIntDebugFRMQualityLevelOverride": "4",
+    "DFIntDebugFRMQualityLevelOverride": "2",
     "DFFlagTextureQualityOverrideEnabled": "True",
     "DFIntTextureQualityOverride": "0",
     "FIntDebugForceMSAASamples": "1",
